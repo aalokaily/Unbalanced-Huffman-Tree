@@ -62,5 +62,12 @@ The tool is built using python and it is already in binaries; there is no need f
 	- Output/s:
 		genome_file_1.fasta 
 
+--Contacts--
+For more queries or questions, please contact
+Anas Al-okaily, anas.al-okaily@uconn.edu
+
+
+Last update: 12/2016
+
 
 
